@@ -1,0 +1,19 @@
+# Carpetas de compilación
+/target/
+
+# Archivos de configuración del sistema
+*.iml
+.idea/
+*.log
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos generados por Maven
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/
+
+# Archivos del entorno de desarrollo
+.vscode/
